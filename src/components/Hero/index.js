@@ -18,7 +18,7 @@ export default function Hero() {
         <div>
           <div className="right">
             <img
-              src="https://raw.githubusercontent.com/alfirmanpahlepi/binar-car-rental/main/assets/image/Mercedes%20Car%20EQC%20300kW%20Edition%20-%20900x598%201.png?token=GHSAT0AAAAAABTC33NMFN5XP445G33Y7RJAYS6XDCA"
+              src="/Mercedes Car EQC 300kW Edition - 900x598 1.png"
               alt="Mercedes Car EQC 300kW Edition - 900x598 1.png"
               width="100%"
               height="100%"
